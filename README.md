@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EnricoLGM
 - 👀 I’m interested in Artic Foxes
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning C / python
+- 💞️ 
+- 📫 How to reach me enricolegumi@proton.me
 
 <!---
 EnricoLGM/EnricoLGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
