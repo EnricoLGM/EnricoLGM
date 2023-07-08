@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EnricoLGM
-- 👀 I’m interested in Artic Foxes
 - 🌱 I’m currently learning C / python
-- 💞️ 
+- 💞️ I love videogames (Sifu)
 - 📫 How to reach me enricolegumi@proton.me
 
 <!---
